@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>This project is hosted <a href="https://tripplanner-7d1l.onrender.com">Here</a></h1>
 
 <h3>Steps to run this project on localhost:</h3>
@@ -23,3 +24,6 @@ GEOAPIFY_API_KEY<br>
 <h5>4. npm run dev</h5>
 
 <h6 style="color:red;">Make sure to define api key .env</h6>
+=======
+# Mystigo
+>>>>>>> 836403f3aaf4537bc8ea4ca5c70c69d447434d49
