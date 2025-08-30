@@ -128,23 +128,23 @@
   "introduction": "Packing efficiently is a crucial skill that can significantly enhance your travel experience. For many travelers, the process of packing can be a source of stress, leading to forgotten items or overstuffed bags. However, with a bit of planning and organization, you can transform packing from a chore into a streamlined process that sets the tone for a successful trip. This guide offers practical advice that caters to both the seasoned traveler and those embarking on their first adventure. By implementing these tips, you’ll not only ensure that you have everything you need, but you’ll also save time and space in your luggage. Ultimately, efficient packing allows you to focus on what truly matters: enjoying your journey.",
   "place": [
     {
-      "name": 1,
+      "name": "First",
       "description": "Make a detailed packing list to avoid forgetting essentials. Consider the duration of your trip and the activities planned to tailor your list accordingly. A well-prepared list will ensure that you pack only what you need, minimizing excess weight and maximizing convenience. This proactive approach helps you stay organized and confident as you head out."
     },
     {
-      "name": 2,
+      "name": "Second",
       "description": "Roll your clothes to save space and reduce wrinkles. This method not only maximizes your suitcase space but also helps you see all your items at a glance. Rolled clothes can be tightly packed into corners, making it easier to fit in more items while keeping your belongings tidy and easily accessible."
     },
     {
-      "name": 3,
+      "name": "Third",
       "description": "Use packing cubes for better organization. These compartments allow you to separate items by category, making it easier to find what you need without rummaging through your bag. Packing cubes can also help compress clothing, freeing up additional space and providing a sense of order to your luggage."
     },
     {
-      "name": 4,
+      "name": "Fourth",
       "description": "Keep essential items accessible during travel. Pack a small bag for your essentials like documents, chargers, and toiletries to avoid digging through your luggage. This approach streamlines your journey, especially during airport security checks, ensuring that you can quickly retrieve what you need without hassle."
     },
     {
-      "name": 5,
+      "name": "Fifth",
       "description": "Plan for unpredictable weather and situations by packing versatile clothing. Choose items that can be layered, dressed up or down, and work for multiple settings. This ensures that you're prepared for various conditions without overpacking. Additionally, consider travel-sized toiletries and minimal accessories to save space while maintaining comfort and style."
     }
   ],
