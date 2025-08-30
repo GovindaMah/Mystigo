@@ -68,19 +68,19 @@
       "description": "Avoid feeding wildlife. Feeding animals can disrupt their natural foraging behaviors and lead to dependency on human-provided food, which can have detrimental effects on their health and survival."
     },
     {
-      "type": "Do",
+      "name": "Do",
       "description": "Choose eco-friendly tour operators. Support businesses that prioritize conservation, employ local guides, and follow sustainable practices. This helps ensure that your travel contributes positively to wildlife protection and local economies."
     },
     {
-      "type": "Don't",
+      "name": "Don't",
       "description": "Steer clear of illegal wildlife trade and attractions that exploit animals. Engaging with businesses that promote unethical practices harms both the animals and conservation efforts."
     },
     {
-      "type": "Do",
+      "name": "Do",
       "description": "Educate yourself about the species and ecosystems you visit. Understanding the local flora and fauna enhances your appreciation of the environment and fosters a deeper connection with nature."
     },
     {
-      "type": "Don't",
+      "name": "Don't",
       "description": "Avoid leaving waste or litter behind. Practice Leave No Trace principles by disposing of waste properly and minimizing your impact on the environment."
     }
   ],
@@ -128,23 +128,23 @@
   "introduction": "Packing efficiently is a crucial skill that can significantly enhance your travel experience. For many travelers, the process of packing can be a source of stress, leading to forgotten items or overstuffed bags. However, with a bit of planning and organization, you can transform packing from a chore into a streamlined process that sets the tone for a successful trip. This guide offers practical advice that caters to both the seasoned traveler and those embarking on their first adventure. By implementing these tips, you’ll not only ensure that you have everything you need, but you’ll also save time and space in your luggage. Ultimately, efficient packing allows you to focus on what truly matters: enjoying your journey.",
   "place": [
     {
-      "number": 1,
+      "name": 1,
       "description": "Make a detailed packing list to avoid forgetting essentials. Consider the duration of your trip and the activities planned to tailor your list accordingly. A well-prepared list will ensure that you pack only what you need, minimizing excess weight and maximizing convenience. This proactive approach helps you stay organized and confident as you head out."
     },
     {
-      "number": 2,
+      "name": 2,
       "description": "Roll your clothes to save space and reduce wrinkles. This method not only maximizes your suitcase space but also helps you see all your items at a glance. Rolled clothes can be tightly packed into corners, making it easier to fit in more items while keeping your belongings tidy and easily accessible."
     },
     {
-      "number": 3,
+      "name": 3,
       "description": "Use packing cubes for better organization. These compartments allow you to separate items by category, making it easier to find what you need without rummaging through your bag. Packing cubes can also help compress clothing, freeing up additional space and providing a sense of order to your luggage."
     },
     {
-      "number": 4,
+      "name": 4,
       "description": "Keep essential items accessible during travel. Pack a small bag for your essentials like documents, chargers, and toiletries to avoid digging through your luggage. This approach streamlines your journey, especially during airport security checks, ensuring that you can quickly retrieve what you need without hassle."
     },
     {
-      "number": 5,
+      "name": 5,
       "description": "Plan for unpredictable weather and situations by packing versatile clothing. Choose items that can be layered, dressed up or down, and work for multiple settings. This ensures that you're prepared for various conditions without overpacking. Additionally, consider travel-sized toiletries and minimal accessories to save space while maintaining comfort and style."
     }
   ]
