@@ -13,7 +13,7 @@
 
 <h3>1. Clone & Unzip the repository</h3>
 <pre>
-git clone &lthttps://github.com/GovindaMah/Mystigo.git&gt;
+git clone https://github.com/GovindaMah/Mystigo.git
 cd Mystigo
 </pre>
 
