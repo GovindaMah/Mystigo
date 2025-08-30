@@ -13,12 +13,12 @@
 
 <h3>1. Clone & Unzip the repository</h3>
 <pre>
-git clone &lt;your-repo-link&gt;
+git clone &lthttps://github.com/GovindaMah/Mystigo.git&gt;
 cd Mystigo
 </pre>
 
 <h3>2. Import Database</h3>
-<p>Import the <b>TripPlanner DB</b> into your <b>MongoDB</b>.</p>
+<p>Import the <b>Mystigo DB</b> into your <b>MongoDB</b>.</p>
 
 <h3>3. Create <code>.env</code> File</h3>
 <p>Define the following environment variables inside a <code>.env</code> file:</p>
